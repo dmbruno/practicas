@@ -97,34 +97,11 @@
     padding-bottom: .9375rem;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .grid-footer{
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     height: 18.75rem;
 }
-
-
 
 
 .col1, .col2, .col3, .col4, .col5{
